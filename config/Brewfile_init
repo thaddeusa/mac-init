@@ -1,0 +1,5 @@
+tap 'caskroom/cask'
+
+cask 'keybase'
+cask '1password'
+cask 'google-chrome'
